@@ -149,16 +149,21 @@
   }
   
   .js-progress {
-    width: 75%;
+    width: 90%;
   }
   
   .html-progress {
     width: 90%;
   }
+
+  .react-progress {
+    width: 75%;
+  }
   
   .dj-progress {
     width: 90%;
   }
+
   .drf-progress {
     width: 80%;
   }
@@ -179,7 +184,7 @@
     width: 70%;
   }
   .li-progress {
-    width: 80%;
+    width: 85%;
   }
   .git-progress{
     width: 85%;
