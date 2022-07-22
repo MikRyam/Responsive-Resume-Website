@@ -265,7 +265,7 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .links {
+  div .links {
     display: flex;
     margin: 0.5rem auto 1rem;
   }
