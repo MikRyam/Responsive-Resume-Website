@@ -264,7 +264,16 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
-  
+
+  .links {
+    display: flex;
+    margin: 0.5rem auto 1rem;
+  }
+
+  .project-link {
+    padding-right: 0.5rem;
+  }
+
   .project-link .para:hover {
     color:#002333;
   }
