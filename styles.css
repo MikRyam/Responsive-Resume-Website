@@ -144,28 +144,29 @@
     border-radius: 12px;
   }
   
-  .py-progress {
+  .html-progress {
+    width: 95%;
+  }
+
+  
+  .js-progress {
+    width: 95%;
+  }
+  
+  .ts-progress {
     width: 85%;
   }
   
-  .js-progress {
-    width: 90%;
-  }
-  
-  .html-progress {
-    width: 90%;
-  }
-
   .react-progress {
-    width: 75%;
+    width: 90%;
   }
   
-  .dj-progress {
+  .rdx-progress {
     width: 90%;
   }
 
-  .drf-progress {
-    width: 80%;
+  .rest-progress {
+    width: 85%;
   }
   
   .fa-progress {
